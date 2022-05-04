@@ -9,8 +9,8 @@
 - "scripts": {"start": "nodemon server.js"}
 
 ## Start
+- npm install
 - npm run start
-- node server.js
 
 ## URL
 - http://localhost:8080/
