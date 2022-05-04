@@ -6,8 +6,11 @@
 - npm install --save-dev nodemon dotenv
 
 ## Package.json
-"scripts": {"start": "nodemon server.js"}
+- "scripts": {"start": "nodemon server.js"}
 
 ## Start
-- node run start
+- npm run start
 - node server.js
+
+## URL
+- http://localhost:8080/
